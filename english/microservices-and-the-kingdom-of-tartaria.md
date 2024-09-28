@@ -6,7 +6,7 @@ The Tartarians lived on free energy, generating electricity from the air called 
 However, Tartaria was destroyed and erased from history in the early 19th century by DS's nuclear bombs and the mud flood.
 
 ## Microservices and the Kingdom of Tartaria
-This is just my intuition, but I believe that [the microservices explained on the previous page](./IT技術とスピリチュアルの関係性.md) originally came from Tartarian technology.<br>
+This is just my intuition, but I believe that [the microservices explained on the previous page](./it-technology-and-spirituality.md) originally came from Tartarian technology.<br>
 Given that electricity existed in that era and the concepts of individuality, love, and harmony are reflected in microservices, I can't help but feel this way. (This intuition came to me while working with k8s.)<br>
 Furthermore, since DevOps and agile development, which are well-suited to microservices, are based on horizontal connections, I can't help but feel that these methods also originated from Tartaria.<br>
 Engineers involved in microservices might have a connection to Tartaria in their past lives.
